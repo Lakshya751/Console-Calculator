@@ -92,7 +92,7 @@ Day1CalculatorSuite/
 
 ---
 
-## Day 1 Exercises Completed
+## Day 1 Exercises 
 - [x] Power (a^b) via loop
 - [x] Modulus for integers
 - [x] Continue y/n prompt after each operation
